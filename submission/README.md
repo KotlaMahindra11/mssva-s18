@@ -1,7 +1,7 @@
 # Submission Summary
 
-****Name(s): ****KOTLA MAHINDRA
-****ID:**** N/A  
+Name(s): KOTLA MAHINDRA
+ID:N/A  
 ****Date:**** 17-12-2025  
 
 ## Summary
